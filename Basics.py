@@ -1,3 +1,4 @@
+#%% 
 import os
 import matplotlib.pyplot as plt
 
@@ -79,3 +80,5 @@ A.mean(0)
 # torch.mean(A, axis=0)
 
 ##
+
+# %%
