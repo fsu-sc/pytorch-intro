@@ -1,0 +1,28 @@
+name: aieoaspytorch
+channels:
+    - pytorch
+    - conda-forge
+    - nodefaults
+    - anaconda
+dependencies:
+    - python=*.*
+    - pandas=*.*
+    - numpy=*.*
+    - matplotlib=*.*
+    - scipy=*.*
+    - scikit-image=*.*
+    - netCDF4=*.*
+    - xarray=*.*
+    - colorcet=*.*
+    - pytorch=*.*
+    - torchvision=*.*
+    - xarray=*.*
+    - cmocean=*.*
+    - datashader=*.*
+    - cartopy=*.*
+    - geojson=*.*
+    - jupyterlab=*.*
+    - pytest=*.*
+    - ipywidgets=*.*
+    - cudatoolkit=*.*
+    - opencv=*.*
